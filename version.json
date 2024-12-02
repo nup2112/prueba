@@ -2,5 +2,5 @@
   "version": "1.2.0",
   "download_url": "https://file.io/ZONro1u80ZFv",
   "installer_name": "Venta Externa Installer.exe",
-  "required_files"= ['app.exe', 'config.ini']
+  "required_files": ['app.exe', 'config.ini']
 }
