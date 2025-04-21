@@ -2,5 +2,5 @@
   "version": "1.3.5",
   "download_url": "https://github.com/nup2112/prueba/releases/download/actualizador-v1.3.5/MaxPlay.VE.Updater.zip",
   "installer_name": "MaxPlay VE Updater.exe",
-  "mandatory": false,
+  "mandatory": false
 }
